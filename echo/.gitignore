@@ -1,0 +1,6 @@
+*.out
+*.log
+*.tmp
+*.bin
+echoo
+echoo-dbg
